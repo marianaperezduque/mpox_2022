@@ -1,5 +1,5 @@
 # mpox_2022
-Code and data to reproduce the analysis in "Viral genetic clustering and transmission dynamics of 2022 mpox outbreak in Portugal"
+Code and data to reproduce the transmission analysis in "Viral genetic clustering and transmission dynamics of 2022 mpox outbreak in Portugal"
 
 Borges V and Perez Duque M et al.
 
